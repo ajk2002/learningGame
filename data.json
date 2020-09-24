@@ -1,0 +1,18 @@
+
+{
+  "questions" : {
+    "4x6": {
+      "question": "whats 4x6",
+      "answer": ["24", "12", "13"]
+
+    },
+     "5x2": {
+      "question": "whats 5x2",
+      "answer": ["10", "14", "9"]
+
+    }
+  },
+  "order" : ["4x6","5x2","4x6","5x2","4x6","5x2","4x6","5x2","4x6","5x2","4x6","5x2","4x6","5x2","4x6","5x2","4x6","5x2","4x6","5x2"],
+
+  "_comment" : "tells what order to put it in, Order element"
+}
